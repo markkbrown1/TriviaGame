@@ -13,3 +13,6 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.answer:hover {
+  background: lightblue;
+}
