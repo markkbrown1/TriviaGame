@@ -1,0 +1,15 @@
+body {
+  background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/GaWC_World_Cities.png/1200px-GaWC_World_Cities.png);
+}
+.jumbotron {
+  box-sizing: border-box;
+  height: 600px;
+  background-color: rgba(200, 54, 54, 0.5);
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
